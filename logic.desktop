@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.3.45
+Type=Application
+Name=Logic
+Comment=Saleae Logic Analyzer
+GenericName=Logic Analyzer
+Icon=logic
+TryExec=logic
+Exec=logic
+Terminal=false
+Categories=Development;Graphics;Utility;Science;ComputerScience;Electricity;Electronics;Engineering;
